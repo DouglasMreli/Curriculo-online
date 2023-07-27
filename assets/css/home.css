@@ -169,9 +169,11 @@
     color: #000;
 }
 .container .h-educacao .item .link{
+    width: 100%;
     margin-top: 5%;
 }
 .container .h-educacao .item a{
+    word-break: break-word;
     text-decoration: underline;
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
