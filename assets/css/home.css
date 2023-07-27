@@ -168,13 +168,16 @@
     font-size: 18px;
     color: #000;
 }
-.container .h-educacao .item a{
+.container .h-educacao .item .link{
     margin-top: 5%;
+}
+.container .h-educacao .item a{
+    text-decoration: underline;
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
     text-align: justify;
     font-size: 18px;
-    color: #000;
+    color: #00E0FF;
 }
 /* Habilidades*/
 .container .h-habilidades {
